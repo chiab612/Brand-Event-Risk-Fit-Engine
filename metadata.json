@@ -1,0 +1,6 @@
+{
+  "name": "Brand Event Risk & Fit Engine",
+  "description": "AI 輔助品牌活動申請人結構化評估工具，提供適配度、風險訊號、可信度與合作價值分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
